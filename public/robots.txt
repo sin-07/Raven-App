@@ -1,0 +1,14 @@
+# Raven Tutorials - Robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /dashboard/
+Disallow: /test/
+Disallow: /live-class/
+
+# Sitemap
+Sitemap: https://raventutorials.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1

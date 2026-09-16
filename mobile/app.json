@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Raven Tutorials",
+    "slug": "raven-tutorials",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0A0E1A",
+    "splash": {
+      "backgroundColor": "#0A0E1A"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0E1A"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
