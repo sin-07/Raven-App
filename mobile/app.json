@@ -6,20 +6,27 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
-    "backgroundColor": "#0A0E1A",
+    "backgroundColor": "#000000",
     "splash": {
-      "backgroundColor": "#0A0E1A"
+      "backgroundColor": "#000000"
     },
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "package": "com.anivic.raventutorials",
       "adaptiveIcon": {
-        "backgroundColor": "#0A0E1A"
+        "backgroundColor": "#000000"
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "88389101-c32e-4b8c-b327-9368a221ae81"
+      }
+    },
+    "owner": "anivic"
   }
 }
